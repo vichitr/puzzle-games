@@ -1,0 +1,25 @@
+{
+  "id": "1",
+  "type": "patches",
+  "date": "2026-01-01",
+  "difficulty": "easy",
+  "rows": 4,
+  "cols": 4,
+  "clues": [
+    { "r": 2, "c": 0, "shape": "tall", "area": 4 },
+    { "r": 0, "c": 1, "shape": "tall", "area": 6 },
+    { "r": 0, "c": 3, "shape": "tall", "area": 2 },
+    { "r": 2, "c": 3, "shape": "square", "area": 1 },
+    { "r": 3, "c": 1, "shape": "square", "area": 1 },
+    { "r": 3, "c": 3, "shape": "wide", "area": 2 }
+  ],
+  "solution": [
+    { "r": 0, "c": 0, "w": 1, "h": 4 },
+    { "r": 0, "c": 1, "w": 2, "h": 3 },
+    { "r": 0, "c": 3, "w": 1, "h": 2 },
+    { "r": 2, "c": 3, "w": 1, "h": 1 },
+    { "r": 3, "c": 1, "w": 1, "h": 1 },
+    { "r": 3, "c": 2, "w": 2, "h": 1 }
+  ],
+  "level": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1",
+  "type": "crossclimb",
+  "date": "2026-01-01",
+  "difficulty": "easy",
+  "level": 1,
+  "length": 4,
+  "top": "WARM",
+  "bottom": "WORK",
+  "comboClue": "A hot day on the job",
+  "middle": [
+    { "clue": "Bug in the garden", "answer": "WORM" },
+    { "clue": "Unit of a sentence", "answer": "WORD" },
+    { "clue": "Part of a hospital", "answer": "WARD" },
+    { "clue": "Give a caution", "answer": "WARN" },
+    { "clue": "Second form of WEAR", "answer": "WORN" }
+  ]
+}

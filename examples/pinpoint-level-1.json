@@ -1,0 +1,16 @@
+{
+  "id": "1",
+  "type": "pinpoint",
+  "date": "2026-01-01",
+  "difficulty": "easy",
+  "level": 1,
+  "clues": [
+    "Lunch",
+    "Sand",
+    "Mail",
+    "Safe deposit",
+    "Think outside the"
+  ],
+  "category": "Words that come before \"box\"",
+  "acceptedAnswers": ["box"]
+}

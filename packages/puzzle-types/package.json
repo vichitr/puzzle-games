@@ -1,0 +1,25 @@
+{
+  "name": "@puzzle-games/types",
+  "version": "0.1.0",
+  "description": "Framework-agnostic TypeScript types for Puzzle Games JSON data — https://puzzlegames.fun",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vichitr/puzzle-games",
+    "directory": "packages/puzzle-types"
+  },
+  "homepage": "https://puzzlegames.fun",
+  "keywords": [
+    "puzzle",
+    "queens",
+    "tango",
+    "zip",
+    "sudoku",
+    "crossclimb",
+    "pinpoint",
+    "linkedin-games"
+  ],
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "files": ["index.ts", "README.md"]
+}

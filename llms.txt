@@ -1,0 +1,28 @@
+# Puzzle Games
+
+> Free daily logic and word puzzles with interactive play, solutions, level tracks, and archives.
+
+- Website: https://puzzlegames.fun
+- GitHub: https://github.com/vichitr/puzzle-games
+- Archive: https://puzzlegames.fun/archive
+- LinkedIn dailies: https://puzzlegames.fun/linkedin-puzzles
+
+## Games
+
+- Queens — https://puzzlegames.fun/queens
+- Tango — https://puzzlegames.fun/tango
+- Zip — https://puzzlegames.fun/zip
+- Mini Sudoku — https://puzzlegames.fun/mini-sudoku
+- Patches — https://puzzlegames.fun/patches
+- Crossclimb — https://puzzlegames.fun/crossclimb
+- Pinpoint — https://puzzlegames.fun/pinpoint
+
+## Documentation in this repo
+
+- Architecture: https://github.com/vichitr/puzzle-games/blob/main/docs/architecture.md
+- Puzzle JSON format: https://github.com/vichitr/puzzle-games/blob/main/docs/puzzle-data-format.md
+- Example puzzles: https://github.com/vichitr/puzzle-games/tree/main/examples
+
+## About
+
+Puzzle Games is a static Next.js site. Puzzles are stored as JSON files and rendered with interactive boards and step-by-step solution reveals. The site includes exclusive level tracks, random practice mode, and a LinkedIn daily puzzle archive.

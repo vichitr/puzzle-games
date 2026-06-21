@@ -1,0 +1,23 @@
+{
+  "id": "1",
+  "type": "tango",
+  "date": "2026-01-01",
+  "difficulty": "easy",
+  "size": 4,
+  "given": [
+    [null, "moon", "moon", null],
+    [null, "sun", null, null],
+    [null, null, null, "sun"],
+    ["moon", "sun", null, null]
+  ],
+  "constraints": [
+    { "a": [1, 1], "b": [1, 2], "op": "x" }
+  ],
+  "solution": [
+    ["sun", "moon", "moon", "sun"],
+    ["sun", "sun", "moon", "moon"],
+    ["moon", "moon", "sun", "sun"],
+    ["moon", "sun", "sun", "moon"]
+  ],
+  "level": 1
+}
