@@ -3,6 +3,7 @@
 Public companion repo for [**Puzzle Games**](https://puzzlegames.fun) — a free, browser-based collection of daily logic and word puzzles with interactive play, step-by-step solutions, level tracks, and archives.
 
 > **Play now:** [puzzlegames.fun](https://puzzlegames.fun)
+
 > **LinkedIn Page:** [Puzzle Games](https://www.linkedin.com/company/puzzle-games)
 
 ## What is Puzzle Games?
