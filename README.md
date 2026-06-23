@@ -3,6 +3,7 @@
 Public companion repo for [**Puzzle Games**](https://puzzlegames.fun) — a free, browser-based collection of daily logic and word puzzles with interactive play, step-by-step solutions, level tracks, and archives.
 
 > **Play now:** [puzzlegames.fun](https://puzzlegames.fun)
+> **LinkedIn Page:** [Puzzle Games](https://www.linkedin.com/company/puzzle-games)
 
 ## What is Puzzle Games?
 
@@ -54,6 +55,7 @@ Browse the full archive at [puzzlegames.fun/archive](https://puzzlegames.fun/arc
 ## Quick links
 
 - **Live site:** [puzzlegames.fun](https://puzzlegames.fun)
+- **LinkedIn Page:** [Puzzle Games](https://www.linkedin.com/company/puzzle-games)
 - **Logic puzzles hub:** [puzzlegames.fun/logic-puzzles](https://puzzlegames.fun/logic-puzzles)
 - **Word puzzles hub:** [puzzlegames.fun/word-puzzles](https://puzzlegames.fun/word-puzzles)
 - **Easy / Medium / Hard collections:** [easy](https://puzzlegames.fun/easy-puzzles) · [medium](https://puzzlegames.fun/medium-puzzles) · [hard](https://puzzlegames.fun/hard-puzzles)
